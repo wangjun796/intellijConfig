@@ -1,0 +1,22 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/coap-jmeter-master/coap-jmeter/src/main/java/net/xmeter/samplers/CoAPPubSampler.java" timestamp="1532423229620">
+        <mark key="[" line="139" column="40" />
+        <mark key="]" line="139" column="39" />
+        <mark key="^" line="139" column="39" />
+        <mark key="." line="139" column="39" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+  </component>
+</application>
