@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'com.kms.core''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Tests in 'com.kms.core''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Coverage Data...">
         <Item>
           <IdeaActionID>SwitchCoverage</IdeaActionID>
