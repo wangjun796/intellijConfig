@@ -161,6 +161,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SpringBootBaseApplic...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'SpringBootBaseApplic...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SpringBootWebA....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
