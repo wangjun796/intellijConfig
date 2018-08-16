@@ -73,11 +73,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Navigation Bar">
         <Item>
           <IdeaActionID>ShowNavBar</IdeaActionID>
           <ShortCut>'Alt+Home'</ShortCut>
           <Description>Jump to Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Preview the current selected bug.">
+        <Item>
+          <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
+          <ShortCut>'Alt+Q' or 'Alt+Button1 Click'</ShortCut>
+          <Description>Preview the current selected bug.</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -95,6 +111,14 @@
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Module 'KMS-PROJECT'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Rebuild Module 'KMS-PROJECT'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'KMS-Web'">
@@ -150,7 +174,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsCaApplication'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'KmsKmApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'KmsKmApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsRegServerApplicat...'">
@@ -166,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'KmsRegServerApplication'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsWebApplicat....main()'">
@@ -326,7 +358,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
