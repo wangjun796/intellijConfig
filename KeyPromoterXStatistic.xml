@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsWebApplication'</Description>
-          <Count>89</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SpringBootWebApplication'">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -110,6 +110,14 @@
           <IdeaActionID>ShowNavBar</IdeaActionID>
           <ShortCut>'Alt+Home'</ShortCut>
           <Description>Jump to Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Watch...">
+        <Item>
+          <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
+          <ShortCut>'Insert'</ShortCut>
+          <Description>New Watch...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -198,7 +206,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsCaApplication'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsKmApplication (1)...'">
@@ -230,7 +238,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'KmsRegServerApplication'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsWebApplicat....main()'">
@@ -390,7 +398,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
