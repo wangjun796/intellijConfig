@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsWebApplication'</Description>
-          <Count>213</Count>
+          <Count>230</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SpringBootWebApplication'">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -103,6 +103,14 @@
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to next highlighted element usage">
+        <Item>
+          <IdeaActionID>GotoNextElementUnderCaretUsage</IdeaActionID>
+          <ShortCut>'Alt+Wheel down'</ShortCut>
+          <Description>Go to next highlighted element usage</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -422,7 +430,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>87</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
