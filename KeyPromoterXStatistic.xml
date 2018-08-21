@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoNextElementUnderCaretUsage</IdeaActionID>
           <ShortCut>'Alt+Wheel down'</ShortCut>
           <Description>Go to next highlighted element usage</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
