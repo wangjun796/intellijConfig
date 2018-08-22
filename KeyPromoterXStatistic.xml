@@ -62,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsWebApplication'</Description>
-          <Count>293</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SpringBootWebApplication'">
