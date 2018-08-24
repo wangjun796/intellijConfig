@@ -209,6 +209,38 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Redo Backspace">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Backspace</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Delete">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Delete</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Paste">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Paste</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Typing">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Typing</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove Configuration">
         <Item>
           <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
