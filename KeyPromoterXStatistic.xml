@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -46,7 +46,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsCaApplication'</Description>
-          <Count>20</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KmsKmApplication'">
@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsWebApplication'</Description>
-          <Count>477</Count>
+          <Count>488</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SpringBootWebApplication'">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>126</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -110,6 +110,14 @@
           <IdeaActionID>FileChooser.GotoDesktop</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Desktop Directory</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'Alt+F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -127,6 +135,14 @@
           <ShortCut>'Alt+Wheel down'</ShortCut>
           <Description>Go to next highlighted element usage</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -262,7 +278,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -302,7 +318,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsCaApplication'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsKmApplication (1)...'">
@@ -350,7 +366,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsWebApplication'</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SpringBootBaseApplic...'">
@@ -550,7 +566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>208</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
