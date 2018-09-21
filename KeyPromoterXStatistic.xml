@@ -113,6 +113,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'WebApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -326,7 +334,7 @@
           <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -358,7 +366,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -614,7 +622,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KmsRegServerApplication'">
@@ -670,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
