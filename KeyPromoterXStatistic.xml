@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsKmApplication'</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KmsRegServerApplication'">
