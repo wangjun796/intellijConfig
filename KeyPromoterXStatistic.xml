@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsWebApplication'</Description>
-          <Count>1457</Count>
+          <Count>1463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SpringBootWebApplication'">
@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>526</Count>
+          <Count>533</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -382,7 +382,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>126</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -774,7 +774,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>689</Count>
+          <Count>701</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
