@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>556</Count>
+          <Count>560</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -774,7 +774,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>729</Count>
+          <Count>732</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
