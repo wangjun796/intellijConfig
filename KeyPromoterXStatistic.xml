@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>574</Count>
+          <Count>575</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -366,7 +366,7 @@
           <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>35</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -406,7 +406,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -686,7 +686,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>35</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KmsRegServerApplication'">
