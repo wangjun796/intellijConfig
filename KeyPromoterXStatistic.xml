@@ -81,6 +81,14 @@
           <Count>33</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'KmsCaWebApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'KmsCaWebApplication'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'KmsKmApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -798,7 +806,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>793</Count>
+          <Count>794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
