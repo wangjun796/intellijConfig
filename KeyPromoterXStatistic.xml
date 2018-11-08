@@ -414,7 +414,7 @@
           <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>64</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -462,7 +462,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>202</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
