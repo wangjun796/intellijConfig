@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>805</Count>
+          <Count>809</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -254,7 +254,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>51</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
