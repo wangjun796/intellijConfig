@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsCaWebApplication'</Description>
-          <Count>544</Count>
+          <Count>546</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KmsConfigApplication'">
@@ -462,7 +462,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>272</Count>
+          <Count>273</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -790,7 +790,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KmsCaWebApplication'">
