@@ -438,7 +438,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>281</Count>
+          <Count>282</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -462,7 +462,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>293</Count>
+          <Count>302</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -790,7 +790,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>144</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KmsCaWebApplication'">
