@@ -150,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsUserWebApplication'</Description>
-          <Count>344</Count>
+          <Count>345</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KmsWebApplication'">
@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1063</Count>
+          <Count>1064</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
