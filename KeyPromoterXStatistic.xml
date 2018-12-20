@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsCaWebApplication'</Description>
-          <Count>821</Count>
+          <Count>822</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KmsConfigApplication'">
@@ -454,7 +454,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>330</Count>
+          <Count>332</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
