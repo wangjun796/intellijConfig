@@ -846,7 +846,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>173</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KmsCaWebApplication'">
