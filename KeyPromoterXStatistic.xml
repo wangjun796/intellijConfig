@@ -510,7 +510,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>370</Count>
+          <Count>372</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
