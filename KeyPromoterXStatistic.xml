@@ -598,7 +598,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsCaApplication'</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsCaWebApplication'">
@@ -622,7 +622,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsConfigApplication...'</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsConfigApplicationTests'">
@@ -646,7 +646,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsGatewayApplication'</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsKmApplication (1)...'">
@@ -686,7 +686,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsRegServerApplicat...'</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsRegServerApplication'">
@@ -702,7 +702,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsUserApplication'</Description>
-          <Count>66</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsUserWebApplicatio...'">
