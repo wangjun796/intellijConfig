@@ -550,7 +550,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>428</Count>
+          <Count>434</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -934,7 +934,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>223</Count>
+          <Count>225</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KmsCaWebApplication'">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1759</Count>
+          <Count>1761</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
