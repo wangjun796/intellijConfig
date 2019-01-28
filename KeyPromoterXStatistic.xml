@@ -302,7 +302,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>306</Count>
+          <Count>308</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -550,7 +550,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>415</Count>
+          <Count>419</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -678,7 +678,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsRaApplication'</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsRaWebApplication'">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1734</Count>
+          <Count>1744</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
