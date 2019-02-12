@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsAcWebApplication'</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KmsCaApplication'">
@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1402</Count>
+          <Count>1408</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -310,7 +310,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>367</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -582,7 +582,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>470</Count>
+          <Count>472</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -606,7 +606,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>453</Count>
+          <Count>457</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -974,7 +974,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>234</Count>
+          <Count>235</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KmsCaWebApplication'">
@@ -1070,7 +1070,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1838</Count>
+          <Count>1846</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
