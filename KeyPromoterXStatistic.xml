@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1569</Count>
+          <Count>1572</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
