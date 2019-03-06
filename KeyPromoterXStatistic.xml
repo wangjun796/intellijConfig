@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1675</Count>
+          <Count>1678</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -318,7 +318,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>477</Count>
+          <Count>478</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -598,7 +598,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>556</Count>
+          <Count>557</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>527</Count>
+          <Count>528</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1094,7 +1094,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2098</Count>
+          <Count>2104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
