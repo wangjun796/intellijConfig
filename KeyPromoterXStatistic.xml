@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>543</Count>
+          <Count>548</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
