@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>548</Count>
+          <Count>550</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -694,7 +694,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsConfigApplication...'</Description>
-          <Count>92</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsConfigApplicationTests'">
@@ -758,7 +758,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsRegServerApplicat...'</Description>
-          <Count>93</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsRegServerApplication'">
@@ -782,7 +782,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'KmsUserApplication'</Description>
-          <Count>96</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KmsUserWebApplicatio...'">
