@@ -318,7 +318,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>554</Count>
+          <Count>556</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -614,7 +614,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>589</Count>
+          <Count>590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2262</Count>
+          <Count>2266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
