@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsRaWebApplication'</Description>
-          <Count>208</Count>
+          <Count>214</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KmsRegServerApplication'">
@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1925</Count>
+          <Count>1928</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -622,7 +622,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>638</Count>
+          <Count>640</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>649</Count>
+          <Count>650</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2332</Count>
+          <Count>2338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
