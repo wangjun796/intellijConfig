@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'KmsRaWebApplication'</Description>
-          <Count>201</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KmsRegServerApplication'">
@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1908</Count>
+          <Count>1923</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -326,7 +326,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>604</Count>
+          <Count>608</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>94</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2321</Count>
+          <Count>2331</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
