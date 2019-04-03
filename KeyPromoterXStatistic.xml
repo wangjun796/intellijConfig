@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2012</Count>
+          <Count>2014</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -622,7 +622,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>644</Count>
+          <Count>648</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>669</Count>
+          <Count>674</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>313</Count>
+          <Count>314</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KmsCaWebApplication'">
