@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2025</Count>
+          <Count>2026</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>675</Count>
+          <Count>676</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2359</Count>
+          <Count>2361</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
