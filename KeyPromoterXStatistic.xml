@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2058</Count>
+          <Count>2060</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>685</Count>
+          <Count>689</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
