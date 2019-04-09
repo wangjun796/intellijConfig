@@ -622,7 +622,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>653</Count>
+          <Count>654</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>689</Count>
+          <Count>693</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
