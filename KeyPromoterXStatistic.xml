@@ -622,7 +622,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>670</Count>
+          <Count>673</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
