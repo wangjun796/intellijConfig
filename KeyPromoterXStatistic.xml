@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2114</Count>
+          <Count>2119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -622,7 +622,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>667</Count>
+          <Count>670</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>710</Count>
+          <Count>713</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
