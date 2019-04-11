@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2124</Count>
+          <Count>2125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -622,7 +622,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>673</Count>
+          <Count>674</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test'">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2408</Count>
+          <Count>2409</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
