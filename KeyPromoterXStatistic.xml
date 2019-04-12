@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>722</Count>
+          <Count>726</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>326</Count>
+          <Count>327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KmsCaWebApplication'">
